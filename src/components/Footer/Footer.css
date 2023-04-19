@@ -1,0 +1,13 @@
+#main-footer{
+	padding: 10px;
+    margin-top: 20px;
+	background:rgb(0, 0, 0);
+	text-align: center;
+}
+#main-footer div p {
+    color: white;
+    font-size: 14px;
+}
+h4 {
+    color: white;
+}
