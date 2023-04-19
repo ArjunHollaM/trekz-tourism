@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/trekz-tourism/static/css/main.fe593b60.css",
+    "main.js": "/trekz-tourism/static/js/main.1cc0e144.js",
+    "static/js/787.6fb954f5.chunk.js": "/trekz-tourism/static/js/787.6fb954f5.chunk.js",
+    "static/media/d1.jpg": "/trekz-tourism/static/media/d1.3dc820b871a23fb63c98.jpg",
+    "static/media/s1.jpg": "/trekz-tourism/static/media/s1.ffe15c49de448e1db4dc.jpg",
+    "static/media/d2.jpg": "/trekz-tourism/static/media/d2.c2291c8457be2b9d5365.jpg",
+    "static/media/s2.jpg": "/trekz-tourism/static/media/s2.513bfa44001c896c5ec1.jpg",
+    "static/media/c3.jpg": "/trekz-tourism/static/media/c3.5752265851148dfd1ba1.jpg",
+    "static/media/c4.jpg": "/trekz-tourism/static/media/c4.719a3b8a2a981874f332.jpg",
+    "static/media/c1.jpeg": "/trekz-tourism/static/media/c1.8155579024a5baab02c2.jpeg",
+    "static/media/c2.jpg": "/trekz-tourism/static/media/c2.8a6578752d4863b731fe.jpg",
+    "static/media/s3.jpg": "/trekz-tourism/static/media/s3.5769943baaeed207815e.jpg",
+    "static/media/m3.jpeg": "/trekz-tourism/static/media/m3.da0ed3c227ba300964fe.jpeg",
+    "static/media/m1.jpg": "/trekz-tourism/static/media/m1.a61c660ff4b676922e75.jpg",
+    "static/media/mountain.jpg": "/trekz-tourism/static/media/mountain.94f47d73c7710cd1bf47.jpg",
+    "static/media/m2.jpeg": "/trekz-tourism/static/media/m2.0e7d3e3163c87dd825bf.jpeg",
+    "static/media/m4.jpg": "/trekz-tourism/static/media/m4.5e707e57004260c69141.jpg",
+    "static/media/d3.webp": "/trekz-tourism/static/media/d3.9462a3621c2922a4c88f.webp",
+    "index.html": "/trekz-tourism/index.html",
+    "main.fe593b60.css.map": "/trekz-tourism/static/css/main.fe593b60.css.map",
+    "main.1cc0e144.js.map": "/trekz-tourism/static/js/main.1cc0e144.js.map",
+    "787.6fb954f5.chunk.js.map": "/trekz-tourism/static/js/787.6fb954f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe593b60.css",
+    "static/js/main.1cc0e144.js"
+  ]
+}
