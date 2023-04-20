@@ -27,6 +27,7 @@ const Savand = () => {
             <p>The steepest climb of the trek lies beyond this stop, and takes one to the next fort wall, post which it is a gradual incline. The rock has some depression here and it is quite possible that rain water wall collected here during the good old days. 
                 Closer to the top, one come across some trees and dilapidated old structures which are currently used as a place to camp or cook. This is also the place where one is likely to find Oriental Honey Buzzards perched on tree-tops . At the slightest disturbance, they take to the air.
                 The last leg of the trek breaks the monotony of walking on the rock with the sun blazing down; one now needs to walk under gigantic boulders. Stretches along this leg are strewn with Plumeria, and the air has the whiff of wild-flowers and resonates with bird calls. It is also a spot where one has a chance to sight the Elusive Yellow Throted Bulbul.</p>
+            <h4 className="locationptr"><a href="https://goo.gl/maps/VKkR2kFCAoobVCjT8">📍Click here to find out where it is!</a></h4>
         </div>
     );
 

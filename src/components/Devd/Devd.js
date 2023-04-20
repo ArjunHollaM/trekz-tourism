@@ -23,6 +23,7 @@ const Devd = () => {
             Around 100 steps have to be climbed to reach the temple and the scenic beauty will definitely leave the climbers spellbound.
             There is a temple which is dedicated to Goddess Lakshmi near Devarayanadurga which is called as the “Goravanahalli Lakshmi” and is revered by many Hindus.
             </p>
+            <h4 className="locationptr"><a href="https://goo.gl/maps/HfMDVo8dViLAEj1h8">📍Click here to find out where it is!</a></h4>
         </div>
     );
 

@@ -28,6 +28,7 @@ const Channd = () => {
             <img src={c4} alt="Pic" />
             <p>The trek to Channarayana Durga is quite interesting and there are no signboards with very few tourists visiting. It takes about half day to trek to the top and explore the fort. Visitors have to carry their own food and water. 
                 Villagers can be hired as guides to explore the fort once you reach the village at the foothill.</p>
+            <h4 className="locationptr"><a href="https://goo.gl/maps/mX8dHAHvpTpKipbU9">📍Click here to find out where it is!</a></h4>
         </div>
     );
 

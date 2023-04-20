@@ -5,8 +5,7 @@ const Home = ({onRouteChange}) => {
     return(
         <div className="container">
         <div className="homehead">
-            <h1>The world reveals itself to those who travel on foot</h1>
-            <p>. It is your time to explore the world!</p>
+            <h1><i>The world reveals itself to those who travel on foot</i></h1>
         </div>
         <div className="content">
             <h2>Local Trekking</h2>

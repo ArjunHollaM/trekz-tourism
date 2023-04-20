@@ -3,11 +3,13 @@ import m1 from './Madhugiriassets/m1.jpg';
 import m2 from './Madhugiriassets/m2.jpeg';
 import m3 from './Madhugiriassets/m3.jpeg';
 import m4 from './Madhugiriassets/m4.jpg';
+import './Madhugiri.css'
 
 const Madhugiri = () => {
     return(
         <div className="Hillcontent">
             <h1 className="hilltitle">Madhugiri</h1>
+            
             <p>Madhugiri Fort lies in Madhugiri which is in the Tumkur district in the State of Karnataka. 
                 Madhugiri is a single hill and the second largest monolith in entire Asia. 
                 The small town is at a distance of 100 kms from Bangalore and is famous for its fort and temples. 
@@ -32,6 +34,7 @@ const Madhugiri = () => {
                 Even today, the undisturbed detail of its masonry bears testimony to the truth of that claim.
                 With the scorching sun and the slippery climb, the ascent to the hilltop will be challenging to say the least. 
                 But try it for yourself, and maybe by the end, you’ll feel the power its rulers might have felt overlooking the world below.</p>
+            <h4 className="locationptr"><a href="https://goo.gl/maps/qH1KrRcuWtiPeWjr5">📍Click here to find out where it is!</a></h4>
         </div>
     );
 
