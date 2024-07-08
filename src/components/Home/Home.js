@@ -9,7 +9,7 @@ const Home = ({onRouteChange}) => {
         </div>
         <div className="content">
             <h2>Local Trekking</h2>
-            <p>Karnataka, One of the most beautiful destinations in South India is home for numerous spots for Trekking in India. The mesmerizing scenery, adventurous trekking paths will make you fall in love with the charismatic treks in Karnataka.</p>
+            <p>Karnataka, One State Many Worlds, One of the most beautiful destinations in South India is home for numerous spots for Trekking in India. The mesmerizing scenery, adventurous trekking paths will make you fall in love with the charismatic treks in Karnataka.</p>
             <p><b>Check these out</b></p>
             <a href="#dd" class="button" onClick={() => onRouteChange('dd')}>Devarayanadurga</a>
             <a href="#sd" class="button" onClick={() => onRouteChange('sd')}>Savandurga</a>
