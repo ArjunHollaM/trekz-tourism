@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/trekz-tourism/static/css/main.43bb290d.css",
-    "main.js": "/trekz-tourism/static/js/main.20bb3b8f.js",
+    "main.js": "/trekz-tourism/static/js/main.072abcf1.js",
     "static/js/787.6fb954f5.chunk.js": "/trekz-tourism/static/js/787.6fb954f5.chunk.js",
     "static/media/d1.jpg": "/trekz-tourism/static/media/d1.3dc820b871a23fb63c98.jpg",
     "static/media/s1.jpg": "/trekz-tourism/static/media/s1.ffe15c49de448e1db4dc.jpg",
@@ -20,11 +20,11 @@
     "static/media/d3.webp": "/trekz-tourism/static/media/d3.9462a3621c2922a4c88f.webp",
     "index.html": "/trekz-tourism/index.html",
     "main.43bb290d.css.map": "/trekz-tourism/static/css/main.43bb290d.css.map",
-    "main.20bb3b8f.js.map": "/trekz-tourism/static/js/main.20bb3b8f.js.map",
+    "main.072abcf1.js.map": "/trekz-tourism/static/js/main.072abcf1.js.map",
     "787.6fb954f5.chunk.js.map": "/trekz-tourism/static/js/787.6fb954f5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.43bb290d.css",
-    "static/js/main.20bb3b8f.js"
+    "static/js/main.072abcf1.js"
   ]
 }
