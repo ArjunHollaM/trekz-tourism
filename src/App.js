@@ -76,11 +76,11 @@ const App = () => {
       <div className="App">
         <Navbar />
         <Routes>
-          <Route exact path="/" Component={Home} />
-          <Route path="/dd" Component={Devd} />
-          <Route path="/sd" Component={Savand} />
-          <Route path="/cd" Component={Channd} />
-          <Route path="/mg" Component={Madhugiri} />
+          <Route path="/" element={<Home />} />
+          <Route path="/dd" element={<Devd />} />
+          <Route path="/sd" element={<Savand />} />
+          <Route path="/cd" element={<Channd />} />
+          <Route path="/mg" element={<Madhugiri />} />
           {/* Add a default route or a 404 page if needed */}
         </Routes>
         <Footer />
