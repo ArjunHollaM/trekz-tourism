@@ -60,7 +60,7 @@
 
 // export default App;
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import './App.css';
 import Navbar from './components/Navbar/Navbar';
 import Home from './components/Home/Home';
@@ -72,7 +72,6 @@ import Footer from './components/Footer/Footer';
 
 const App = () => {
   return (
-    <Router>
       <div className="App">
         <Navbar />
         <Routes>
@@ -85,7 +84,6 @@ const App = () => {
         </Routes>
         <Footer />
       </div>
-    </Router>
   );
 }
 
