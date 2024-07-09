@@ -1,7 +1,8 @@
 import React from "react";
-import './Home.css'
+import './Home.css';
+import { Link } from 'react-router-dom';
 
-const Home = ({onRouteChange}) => {
+const Home = () => {
     return(
         <div className="container">
         <div className="homehead">
@@ -11,10 +12,10 @@ const Home = ({onRouteChange}) => {
             <h2>Local Trekking</h2>
             <p>Karnataka, One State Many Worlds, One of the most beautiful destinations in South India is home for numerous spots for Trekking in India. The mesmerizing scenery, adventurous trekking paths will make you fall in love with the charismatic treks in Karnataka.</p>
             <p><b>Check these out</b></p>
-            <a href="#dd" class="button" onClick={() => onRouteChange('dd')}>Devarayanadurga</a>
-            <a href="#sd" class="button" onClick={() => onRouteChange('sd')}>Savandurga</a>
-            <a href="#cd" class="button" onClick={() => onRouteChange('cd')}>Channarayana Durga</a>
-            <a href="#mg" class="button" onClick={() => onRouteChange('mg')}>Madhugiri</a>
+            <Link to="/dd" className="button">Devarayanadurga</Link>
+            <Link to="/sd" className="button">Savandurga</Link>
+            <Link to="/cd" className="button">Channarayana Durga</Link>
+            <Link to="/mg" className="button">Madhugiri</Link>
         </div>
 
         </div>
